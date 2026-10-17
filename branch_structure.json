@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-625-brand-assets-add-transparent-stellar-trustless"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-625-brand-assets-add-transparent-stellar-trustless": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-625-brand-assets-add-transparent-stellar-trustless"
+  ]
+}
